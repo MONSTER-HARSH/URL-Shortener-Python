@@ -50,6 +50,7 @@ URL-Shortener-Python/
 │── templates/
 │   └── index.html # HTML template for the web interface
 │── README.md      # Project documentation
+│── LICENSE        # Project MIT License
 ```
 
 ## Usage
